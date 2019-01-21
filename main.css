@@ -1,0 +1,137 @@
+@font-face{
+    font-family: "Robot";
+    src:url(MRROBOT.ttf)
+}
+body { 
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: 'Roboto Slab', serif;
+    font-weight: normal;
+}
+
+hr {
+    border:0.4em dotted #dbedf3;
+    border-style: none none dotted; 
+    color: #fff; 
+    width: 25%;
+    size: 25px;
+    margin: 3% auto;
+}
+ body{
+     background-color: #a2eae2;;
+ }
+h1{
+    font-size: 5.625rem;
+    color: #a2eae2;
+    margin: 0;
+    padding-top: 5%;
+    margin-bottom: 0;
+    font-family: 'Robot', 'Sedgwick Ave Display', cursive;
+}
+h2 {
+    font-family: 'Exo 2', sans-serif;
+    font-size: 2.5rem;
+    color: #a2eae2;
+    font-weight: normal;
+    margin-top: 0;
+}
+h3 {
+    font-family: 'Exo 2', sans-serif;
+    color: #dbedf3;
+    }
+    a {
+        color: #dbedf3;
+    }
+p {
+    color: #dbedf3;
+}
+.top-container {
+    padding-top: 5%;
+    background-color: #283149;
+}
+.middle-container {
+    background-color: #404b69;}
+.skills {
+    background-color: #404b69;
+}
+
+.bottom-container { 
+    background-color: #a2eae2;
+    margin-top: 1%;
+
+}
+.top-cloud {
+    position: absolute;
+    right: 30%;
+    top: 5%;
+} 
+.bottom-cloud {
+    position: absolute;
+    left:25%;
+}
+.skill-row {
+    line-height: 2;
+    text-align: left;
+    width: 50%;
+    margin: 100px auto 100px auto;
+}
+.front-end{
+    width: 25%;
+    float:left;
+    margin-right: 2em;
+    margin-bottom: 2em;
+}
+.web-design {
+    width: 25%;
+    float: right;
+    margin-left:2em;
+
+}
+.profile-img {
+    width: 25%;
+
+}
+.contact-me {
+    background-color: #a2eae2;
+}
+.clr {
+    color: #105e62;
+}
+.footer-link {
+    color: #105e62;
+}
+.btn {
+    color: #105e62;
+}
+
+
+.butn {
+    background: #7efaff;
+    background-image: -webkit-linear-gradient(top, #7efaff, #155075);
+    background-image: -moz-linear-gradient(top, #7efaff, #155075);
+    background-image: -ms-linear-gradient(top, #7efaff, #155075);
+    background-image: -o-linear-gradient(top, #7efaff, #155075);
+    background-image: linear-gradient(to bottom, #7efaff, #155075);
+    -webkit-border-radius: 13;
+    -moz-border-radius: 13;
+    border-radius: 13px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 22px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    margin:1% auto 2%;
+  }
+  
+  .butn:hover {
+    background: #174142;
+    background-image: -webkit-linear-gradient(top, #174142, #7efaff);
+    background-image: -moz-linear-gradient(top, #174142, #7efaff);
+    background-image: -ms-linear-gradient(top, #174142, #7efaff);
+    background-image: -o-linear-gradient(top, #174142, #7efaff);
+    background-image: linear-gradient(to bottom, #174142, #7efaff);
+    text-decoration: none;
+  }
+
+/* https://colorhunt.co/palette/118962 */
